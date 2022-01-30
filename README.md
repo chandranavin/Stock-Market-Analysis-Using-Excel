@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-Using-Excel
+# Stock-Market-Analysis-Using-Excel.
 # Lovely Professional University
 Academic Project,
 Created Excel Dashboard, Home page with hyperlink,
