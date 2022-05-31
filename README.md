@@ -1,9 +1,8 @@
 # Stock-Market-Analysis-Using-Excel.
 # Lovely Professional University
-Academic Project,
-Created Excel Dashboard, Home page with hyperlink,
-Analyzed 20 years data of top 5, NIFTY 50 Companies,
-more than 25000 datsets,
-dataset source- Kggle.com
-Used Pivot Table, Slicer, Filters, conditional formatting,
-Stock Candle Chart.
+Analyzed 20 years of data of top 5, NIFTY 50 Companies
+Objective:- Created Stock Candle Chart, Found the highest
+and lowest price of the year and profit & loss in each year,
+amount of profit and loss in each year. Created Excel
+Dashboard, Home page with a hyperlink, Used Pivot Table,
+Slicer, Filters, conditional formatting
